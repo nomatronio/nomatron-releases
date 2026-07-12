@@ -1,0 +1,48 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Origin: Nomatron
+Label: Nomatron
+Suite: stable
+Codename: stable
+Date: Sun, 12 Jul 2026 17:34:55 UTC
+Architectures: amd64 arm64 s390x
+Components: main
+Description: Nomatron Linux packages
+MD5Sum:
+ b53397045e1cbd430795546276ee1e4f              978 main/binary-amd64/Packages
+ 72483fdfbc3ca284c51a39da394234ad              505 main/binary-amd64/Packages.gz
+ 5536c69faa27b05686fea7869ed70139              918 main/binary-arm64/Packages
+ 82c3672ad05b0955b397fe34fa9f853a              489 main/binary-arm64/Packages.gz
+ cd67e610e25ea91dc9435d6bd833e12e              918 main/binary-s390x/Packages
+ d2b945f2a25ac5ec140803da04c95a9e              491 main/binary-s390x/Packages.gz
+SHA1:
+ 513f2d6ff27c643ddec1e9af6a38fa66914893df              978 main/binary-amd64/Packages
+ 4b3a1a07323799b8f3d54c61122e7795312117ce              505 main/binary-amd64/Packages.gz
+ 64bbda1b1c7d220a506de9008450635d91dfe2e7              918 main/binary-arm64/Packages
+ 9722f7fe83ba160923ade7c9ec2fbad9c2ef299a              489 main/binary-arm64/Packages.gz
+ 5f30b123f77b34a6d417b1887c8b82ccc3939f9b              918 main/binary-s390x/Packages
+ ef35e910b1c9125cd197e6de9f28e636cc381616              491 main/binary-s390x/Packages.gz
+SHA256:
+ 124058640bf3d0c79aa568184e98f0b7e57f100625dadb2db3b599b75d946975              978 main/binary-amd64/Packages
+ 847e788a1f2308f1c0367f258631998ece19403788249fa850e2082287a9c6f2              505 main/binary-amd64/Packages.gz
+ 030585f81482c2dcff17b804fb2c1049338465a83a6f4c619d88cebfe20bd2a5              918 main/binary-arm64/Packages
+ e60b33448ffd9e34437f0e9b847b77d40649323f85148e1d10c53fe8d5a28816              489 main/binary-arm64/Packages.gz
+ b512ca24a922aa7ae414fc004737f2ab6802a03405b117a3f7815e7d6267e108              918 main/binary-s390x/Packages
+ 8e030da24b3cf825b9a018be8e4bff25a11b70efdcc03505836564c62f5cac94              491 main/binary-s390x/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCAAdFiEEaYmuudMIbTi1KCjfSQRX9Bwjcm4FAmpT0D8ACgkQSQRX9Bwj
+cm66ag/+L9pWBYXPrN5A/uSyFtgTb02g1pGO415hONIacYpyAi/e9LSRkNrl6hMt
+X3uszgFMp2NwwcjA5qKn64tOkt1RlNXnKyX+3vFIuLoot0kt0+lOoj1K1apeOrd+
+PrxKwaJ1DZ3v8+khFCKyxw6Z/mLVMolwXW8EjOrJTXlqQZczOqhveEPZhjJcDv+7
+hi2w+TQ9dYTdtBjjL+a++GNJyELlUQfgTx3m42MQvoZMmrTW7Wdx+uAI603X/5X5
+mkoknXoaDL4S8N2C84FM6o+PWQW4yXyJjz23o9C35HcPAvRuI/VBQJj8hG3IK9ku
+4ojbNaa5bBCzZLDQYKbHCRQOqjhthmCYQt+cdQJSLcFv9SU2pDd+GJUo+0SRHT7m
+0vqu7QHetj5ys8GvbfRLgnr1Mm3EmEZWZfEsr0094U3+lUlrp/vgrBcSB4UlxOVo
+lCES92mOmWWb2/YSyZL+g3MPzkFU0FWp+Gx5OI2X2gw92zEAUip13mDZpHs36MBC
+uJVpsbZLM3ksGF35P7A84+8Ao8tky0GMX6CWVOztQ8fxS1fhnl/rKWUsZjaDHHpz
+93VKxgJk1QzsGKm8dnhWs2Xn2mba9lH3cn8WSIq5Ws5aluvoWlNhyDxF3YXbeKt/
+9twMHU2fD+1wjNnTd0bACVbWnj/Sik1vvonjPC2GmzZn1WKJyp0=
+=+7bI
+-----END PGP SIGNATURE-----
