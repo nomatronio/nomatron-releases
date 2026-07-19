@@ -1,28 +1,28 @@
 Package: nomatron
-Version: 0.1.0~rc.18
+Version: 0.1.0~rc.19
 Architecture: amd64
 Maintainer: Nomatron <support@nomatron.com>
 Installed-Size: 59356
-Filename: pool/main/nomatron_0.1.0.rc.18_amd64.deb
-Size: 19708886
-MD5sum: b558bd99c36c91bf6c9b4301a415c532
-SHA1: 7da0dec685a377bdcf0884b8fa12363f57d31024
-SHA256: bfbdfc3a90d49e99c151fdbc8b300c66b317c9364d307b7be59c8cee5f0ab865
+Filename: pool/main/nomatron_0.1.0.rc.19_amd64.deb
+Size: 19708380
+MD5sum: 5219fa99dee3ccbd9bce521997f8b2a2
+SHA1: 1aa159efca86c15bd181cd89708bd8d13cb4eab7
+SHA256: 87cf2e94d1d4ab2c612f5cf9a934b81888455c01c0b10136c8eeb9fb2712a23b
 Priority: optional
 Homepage: https://get.nomatron.io
 Description: Nomatron Server CLI.
 Architecture-Variant: amd64v1
 
 Package: nomatron-agent
-Version: 0.1.0~rc.18
+Version: 0.1.0~rc.19
 Architecture: amd64
 Maintainer: Nomatron <support@nomatron.com>
 Installed-Size: 15608
-Filename: pool/main/nomatron-agent_0.1.0.rc.18_amd64.deb
-Size: 6317728
-MD5sum: fc075503589824cb26705afb04c46b6a
-SHA1: 0bd7cf43b321933861a92972bdb8c3ec166764e3
-SHA256: 88aaf8e132f04e753f1c196792d163c54775fe5699f20f8af0b482769715e3ee
+Filename: pool/main/nomatron-agent_0.1.0.rc.19_amd64.deb
+Size: 6317736
+MD5sum: e60fd04d72811fd1aa8ede808aa2942d
+SHA1: d6e5b188661d0681c7190291813292c130dde568
+SHA256: 4289c9c568c066aea309c240bed116d10eb808e1f93faa2d59ec45e53b1b8c80
 Priority: optional
 Homepage: https://get.nomatron.io
 Description: Nomatron network agent.
