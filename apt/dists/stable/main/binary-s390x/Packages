@@ -1,27 +1,27 @@
 Package: nomatron
-Version: 0.1.0~rc.22
+Version: 0.1.0~rc.23
 Architecture: s390x
 Maintainer: Nomatron <support@nomatron.com>
-Installed-Size: 62976
-Filename: pool/main/nomatron_0.1.0.rc.22_s390x.deb
-Size: 19228930
-MD5sum: 1d0547a138707402534439e9ff77c730
-SHA1: 38b1fbfb17dab97b707e00217e120c0b397f65e1
-SHA256: e42dfbe09cef63c86aa89350e584ad3256ed8a1a3d73d3a8f38d94fe76c9e925
+Installed-Size: 63168
+Filename: pool/main/nomatron_0.1.0.rc.23_s390x.deb
+Size: 19286736
+MD5sum: 6f34b303ecd3aead9af75aa2f9583cdb
+SHA1: 25726b9b1212b8d14add380fd5208e3008b7acd2
+SHA256: 97de14f312708ea689661fbaaa892b6ae958eddb1d7f2e2744bfe15b48a13957
 Priority: optional
 Homepage: https://get.nomatron.io
 Description: Nomatron Server CLI.
 
 Package: nomatron-agent
-Version: 0.1.0~rc.22
+Version: 0.1.0~rc.23
 Architecture: s390x
 Maintainer: Nomatron <support@nomatron.com>
 Installed-Size: 16512
-Filename: pool/main/nomatron-agent_0.1.0.rc.22_s390x.deb
-Size: 6079394
-MD5sum: 23b2503fd15ff82a47396403b83770d8
-SHA1: b2d123caf4297a0a16347ec7c50b9b2d3e05af0a
-SHA256: f79a14436b5509a8ee70b22831385c41e84f273226265bbe0340bcae06104662
+Filename: pool/main/nomatron-agent_0.1.0.rc.23_s390x.deb
+Size: 6079396
+MD5sum: 5e9667ff4a7dae0a87bfb7f8f988a3c7
+SHA1: 821db6acb8936daa411854a608ad0d3feff0f91f
+SHA256: 96ab20ec6f4ef67c58a94a1fb3ecc9a4a4b60c8fd2668d40780dd727373113c6
 Priority: optional
 Homepage: https://get.nomatron.io
 Description: Nomatron network agent.
