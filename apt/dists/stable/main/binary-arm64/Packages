@@ -1,41 +1,41 @@
 Package: nomatron
-Version: 0.1.0~rc.27
+Version: 0.1.0~rc.28
 Architecture: arm64
 Maintainer: Nomatron <support@nomatron.com>
 Installed-Size: 57088
-Filename: pool/main/nomatron_0.1.0.rc.27_arm64.deb
+Filename: pool/main/nomatron_0.1.0.rc.28_arm64.deb
 Size: 18495424
-MD5sum: 15a2108b9da57501759c4cbbbe40ecd7
-SHA1: 0a9b9369317e78928c897581402b7a4b2c54d239
-SHA256: 26631f625bc77e50247c1a66aeadb1a19ae3f63c9ef3da0466c340618b865879
+MD5sum: 614e0eff58563aa263ed65b58960bcd4
+SHA1: 6089b276933319307280889c2959a2f5c3bdb9c0
+SHA256: 0cbf1e525dd65df1f6faa09bac9462ab4648d7f6d907f44170b552e37b05f893
 Priority: optional
 Homepage: https://get.nomatron.io
 Description: Nomatron Server CLI.
 
 Package: nomatron-agent
-Version: 0.1.0~rc.27
+Version: 0.1.0~rc.28
 Architecture: arm64
 Maintainer: Nomatron <support@nomatron.com>
 Installed-Size: 14592
-Filename: pool/main/nomatron-agent_0.1.0.rc.27_arm64.deb
-Size: 5744588
-MD5sum: e587fd135a0a91507f0c0226c57d1a3a
-SHA1: c1dd91b94ce204dbf2ec59c788a0c7c5de0f6b1a
-SHA256: ba023efd83af2137e76f6d3050f0b458daee4154d3da682f47e6e9bbd408fb43
+Filename: pool/main/nomatron-agent_0.1.0.rc.28_arm64.deb
+Size: 5744592
+MD5sum: 5833d1aea9f76b83ec0f0a79c211c765
+SHA1: cd658340d720cf0390768afb2a3ab47745bd258a
+SHA256: 732cec50e9cdc141d45fff56e612f8d28a85f7bce537bf8340dc5ba4505ee7b6
 Priority: optional
 Homepage: https://get.nomatron.io
 Description: Nomatron network agent.
 
 Package: nomatron-host-agent
-Version: 0.1.0~rc.27
+Version: 0.1.0~rc.28
 Architecture: arm64
 Maintainer: Nomatron <support@nomatron.com>
 Installed-Size: 14464
-Filename: pool/main/nomatron-host-agent_0.1.0.rc.27_arm64.deb
-Size: 5652488
-MD5sum: 3013122239791b1ac373c178ed5bf53b
-SHA1: 24bb10242507627efbab6cc001d8348dde4f20ef
-SHA256: 65300bf3d1bd3e1796dbc3b0d38f75a053ec5a8c2f42e6116bb3badf971575a5
+Filename: pool/main/nomatron-host-agent_0.1.0.rc.28_arm64.deb
+Size: 5652490
+MD5sum: 07f623c72543164ed83be9126775ab69
+SHA1: 8a1a754cd6412e9b993185a744f225805ec3f486
+SHA256: 78730a96f796d7ef212812afc2a1dd4f88635fa10620fa6f5253ad22e424f784
 Priority: optional
 Homepage: https://get.nomatron.io
 Description: Nomatron Application Networking Host Agent.
