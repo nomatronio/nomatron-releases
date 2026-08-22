@@ -1,13 +1,13 @@
 Package: nomatron
-Version: 0.1.0~rc.28
+Version: 0.1.0~rc.29
 Architecture: s390x
 Maintainer: Nomatron <support@nomatron.com>
-Installed-Size: 64448
-Filename: pool/main/nomatron_0.1.0.rc.28_s390x.deb
-Size: 19687312
-MD5sum: adc6901925d80c06568663a11c961a85
-SHA1: 101aa42ed7f69acb4b5ecd2cecfcda42ee1c1693
-SHA256: b2effe7db4583ff3426cc00684c2e0f24bd3eeafa101e0f68d5a9d47ec39ccfc
+Installed-Size: 64704
+Filename: pool/main/nomatron_0.1.0.rc.29_s390x.deb
+Size: 19757934
+MD5sum: ec116c40d37c23d7920f8f2bb83d54b7
+SHA1: 852e2ef0366d49f4bbbed1f577372484a70bba44
+SHA256: 685f02e3e454a47c660ac1fba6972eb675e1782fdf9a6f1ca16dcaf7d76afb7c
 Priority: optional
 Homepage: https://get.nomatron.io
 Description: Nomatron Server CLI.
@@ -26,16 +26,30 @@ Priority: optional
 Homepage: https://get.nomatron.io
 Description: Nomatron network agent.
 
+Package: nomatron-connectivity-agent
+Version: 0.1.0~rc.29
+Architecture: s390x
+Maintainer: Nomatron <support@nomatron.com>
+Installed-Size: 16512
+Filename: pool/main/nomatron-connectivity-agent_0.1.0.rc.29_s390x.deb
+Size: 6079324
+MD5sum: 05429a84256c0831c3dc1364edc968e8
+SHA1: 7a29b4d55cdcd0cf14e35c7eea4e1d757fb42fc4
+SHA256: 08c2d7afaf9c3f349a132ed5e64bb95911739e1ec214dea49e4f5426a21a257c
+Priority: optional
+Homepage: https://get.nomatron.io
+Description: Nomatron Connectivity Agent.
+
 Package: nomatron-host-agent
-Version: 0.1.0~rc.28
+Version: 0.1.0~rc.29
 Architecture: s390x
 Maintainer: Nomatron <support@nomatron.com>
 Installed-Size: 16320
-Filename: pool/main/nomatron-host-agent_0.1.0.rc.28_s390x.deb
-Size: 5951386
-MD5sum: a6dcab148b247853bcecd2050eaad9f4
-SHA1: 8571b4533bc6894d5f900161b8827a98ec984c6d
-SHA256: 9d0aa56379b8c2348e2f76513cdae57fd8ba0cb8110d879adacfc2897c6da84c
+Filename: pool/main/nomatron-host-agent_0.1.0.rc.29_s390x.deb
+Size: 5951754
+MD5sum: c5fa76823978c8820cd127b5917ed653
+SHA1: 257f7b726bec62940ea97f85bf1b2764458b154b
+SHA256: d064af0bca90b9a6c6e2fd39d68ec830a27bf05fff3d9cf44e2e708246d78b25
 Priority: optional
 Homepage: https://get.nomatron.io
 Description: Nomatron Application Networking Host Agent.

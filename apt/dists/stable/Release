@@ -2,28 +2,28 @@ Origin: Nomatron
 Label: Nomatron
 Suite: stable
 Codename: stable
-Date: Thu, 20 Aug 2026 23:13:41 UTC
+Date: Sat, 22 Aug 2026 21:12:55 UTC
 Architectures: amd64 arm64 s390x
 Components: main
 Description: Nomatron Linux packages
 MD5Sum:
- f32fd0686e419630c19bc9e1204d76ed             1468 main/binary-amd64/Packages
- 1fb52c88b7124ff305498aeeb064b827              626 main/binary-amd64/Packages.gz
- 0a4219c4fb41647fbc2eba3ba388c82a             1378 main/binary-arm64/Packages
- 57a2a0b68a6db978ffc82f61cde0d180              609 main/binary-arm64/Packages.gz
- cd82b6cdbceb1b96b744d73af0d6d1b6             1378 main/binary-s390x/Packages
- 2d1cd3a6958b136a79753e4b1e7a05b7              610 main/binary-s390x/Packages.gz
+ 6af7e781682b7fea7fbe01f62e0a1556             1983 main/binary-amd64/Packages
+ 187de87157d70290b154840bcf69d304              758 main/binary-amd64/Packages.gz
+ af7ffa3a3b83b348de104d70a3754aa1             1863 main/binary-arm64/Packages
+ 3bd2ac12f391aaec2f56e548c1afcccb              738 main/binary-arm64/Packages.gz
+ 6c02d2106fd8d62748f28b79d8c32ed3             1863 main/binary-s390x/Packages
+ 3f80fd0cc6e02b48d297fd1b7bb85917              741 main/binary-s390x/Packages.gz
 SHA1:
- 1af262676a86c0bdd62cfc182d2802c21439ea60             1468 main/binary-amd64/Packages
- bd4473fcbf3a14d93774a54394e66bfe00833e93              626 main/binary-amd64/Packages.gz
- 61d2235189b9eaac2d7cc91dc037ae02503d07c7             1378 main/binary-arm64/Packages
- 3e287f3f7ed123fac66feec9a29ee47094310d59              609 main/binary-arm64/Packages.gz
- ee4fe46eda7be85499cc32604ba7a6540a3ff80d             1378 main/binary-s390x/Packages
- 370f7378616cc0fdcf51c52f644cb8c6b209345b              610 main/binary-s390x/Packages.gz
+ d0d4dcf5b63d8b61f9c86656bfec47ba70fe2144             1983 main/binary-amd64/Packages
+ 1f7f717c54483c617d041aa5a5f7a23c7fbb985f              758 main/binary-amd64/Packages.gz
+ 343ba909717c272c1dea6f624e799dc2690d88a4             1863 main/binary-arm64/Packages
+ 601aeba647e73c0111d741767cdcbe40e5bd37ed              738 main/binary-arm64/Packages.gz
+ 49cc8536b9a034c835aaae14e442b3038430b889             1863 main/binary-s390x/Packages
+ 97b459ab2eb5fd41010719769651be1d17a40955              741 main/binary-s390x/Packages.gz
 SHA256:
- bbdd254596d25a799aa85dd2e37bf178ceb153f30132a454a1411a1ab88a0f2a             1468 main/binary-amd64/Packages
- 987dcb01b88900c06677ac991f45a423c56d41052adf496b47f535556bd44d35              626 main/binary-amd64/Packages.gz
- 59e86b4d05a4f795aa5f4e62d274f08893fd5d2bf1f7b6ff9843d4e801264b1a             1378 main/binary-arm64/Packages
- 6ef553cb37c4ef505f1e35944cbd8e4418dc9f6cef324cd585b3752b377e36ae              609 main/binary-arm64/Packages.gz
- 4b603551c1ce0d28a0ee6301ec95433395f6c60e8bd6063ca6a3904aae31f73f             1378 main/binary-s390x/Packages
- 139d49f0172d18c3dd067836c271f0ca842fbf6f5447b3b873601beeffef538d              610 main/binary-s390x/Packages.gz
+ 8959ea51432386311a45b042c84f195166f3c83d7e92a9e60536478e442acbaa             1983 main/binary-amd64/Packages
+ 517419693b93bbdd8248cb29759ad04b83097a4ee3f855dfc3e4dcf697a002e2              758 main/binary-amd64/Packages.gz
+ 3669f540e0d64af58f1129f65edbe9af61318ebb38083c7054347a13e1b9867a             1863 main/binary-arm64/Packages
+ ae6162e4a3d9b2a87c83f8f6459c48ee423dee19d935c83d866e6e98669c8094              738 main/binary-arm64/Packages.gz
+ 7645a5fe482a0255ee78e7bf465290aa8707d58b956bfb54eab7d3e32756c707             1863 main/binary-s390x/Packages
+ ee80f0aefbe8e8ad5838d8166fafc2f3f7e7cbbbd9911af8a6844cef101cf26f              741 main/binary-s390x/Packages.gz
