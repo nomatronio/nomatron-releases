@@ -1,13 +1,13 @@
 Package: nomatron
-Version: 0.1.0~rc.40
+Version: 0.1.0~rc.42
 Architecture: arm64
 Maintainer: Nomatron <support@nomatron.com>
-Installed-Size: 57408
-Filename: pool/main/nomatron_0.1.0.rc.40_arm64.deb
-Size: 18560212
-MD5sum: eb47e2385b7ee0c84e6a316bed09e718
-SHA1: 4294166996fea7547d4a8c80a814108f73194826
-SHA256: 6879249c520e58b7a7727fbffaa120c704ed0dd733e3ed02183c75a9826c6cd5
+Installed-Size: 57472
+Filename: pool/main/nomatron_0.1.0.rc.42_arm64.deb
+Size: 18565968
+MD5sum: a1b350567d6276c46ba23261879a63d5
+SHA1: 74235419c6c41d834aa99778e8ecbd9678c96e06
+SHA256: 195b56b3dadc419ae5baeb70e0d848b319530b531669245085affb940453bbd9
 Priority: optional
 Homepage: https://get.nomatron.io
 Description: Nomatron Server CLI.
@@ -27,29 +27,29 @@ Homepage: https://get.nomatron.io
 Description: Nomatron network agent.
 
 Package: nomatron-connectivity-agent
-Version: 0.1.0~rc.40
+Version: 0.1.0~rc.42
 Architecture: arm64
 Maintainer: Nomatron <support@nomatron.com>
 Installed-Size: 14592
-Filename: pool/main/nomatron-connectivity-agent_0.1.0.rc.40_arm64.deb
-Size: 5706668
-MD5sum: 97eaa8defa47c63107da2d9fa7f13eba
-SHA1: 001d14e80f70d55ea698a53df91769abd75819c2
-SHA256: 04f389dd7e3fc8a79db66d5631c953e5b302fd9540f6ba3e45cebbbc97ab8417
+Filename: pool/main/nomatron-connectivity-agent_0.1.0.rc.42_arm64.deb
+Size: 5706654
+MD5sum: 9b8f1cf2d2c6d56e3d00d1f68084b33d
+SHA1: 5d41ac8260d757ccd78bf703c02100b4fae97b1a
+SHA256: 98f066821506a94fa33a7cb2a2704cde6ed17c0cd706dc528681b63d38a0d5fb
 Priority: optional
 Homepage: https://get.nomatron.io
 Description: Nomatron Connectivity Agent.
 
 Package: nomatron-host-agent
-Version: 0.1.0~rc.40
+Version: 0.1.0~rc.42
 Architecture: arm64
 Maintainer: Nomatron <support@nomatron.com>
 Installed-Size: 14528
-Filename: pool/main/nomatron-host-agent_0.1.0.rc.40_arm64.deb
+Filename: pool/main/nomatron-host-agent_0.1.0.rc.42_arm64.deb
 Size: 5630394
-MD5sum: 0ea80176dded6f8c86327fba3ecb3d10
-SHA1: 8f53accbaf13e092c8562947f625fce53cb3ccb0
-SHA256: 59c19e2f705cb44aab2e4e68f06e9397837cfd024ba1dd0b84d49d63e3980274
+MD5sum: 0e74cabfc4db45af068798592af6ed5c
+SHA1: 395db67c8ab3e1e6891a4544f9753b1e1aff9797
+SHA256: 9fde2df405c542b813a10f4da2892803f062a1e721e09da35b2238321a47b74d
 Priority: optional
 Homepage: https://get.nomatron.io
 Description: Nomatron Application Networking Host Agent.
