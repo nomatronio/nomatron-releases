@@ -1,13 +1,13 @@
 Package: nomatron
-Version: 0.1.0~rc.44
+Version: 0.1.0~rc.45
 Architecture: arm64
 Maintainer: Nomatron <support@nomatron.com>
 Installed-Size: 57472
-Filename: pool/main/nomatron_0.1.0.rc.44_arm64.deb
-Size: 18569040
-MD5sum: 94830575e0ad9aff94aa1e6c4537b969
-SHA1: 4ac7e228dd94149be2b3836535acd4696388cc56
-SHA256: b015ef7662843d0521199118231f97a2989128b528f316d95a6e4232305b5911
+Filename: pool/main/nomatron_0.1.0.rc.45_arm64.deb
+Size: 18567408
+MD5sum: 36a23f19efe42716764938afd092497f
+SHA1: 111ad752f05956428fd5e00b98dcaee6a328b94b
+SHA256: e18ad2c103561563ce255747be13ebac503aa91bf58ff115be8b342738c55e57
 Priority: optional
 Homepage: https://get.nomatron.io
 Description: Nomatron Server CLI.
@@ -27,29 +27,29 @@ Homepage: https://get.nomatron.io
 Description: Nomatron network agent.
 
 Package: nomatron-connectivity-agent
-Version: 0.1.0~rc.44
+Version: 0.1.0~rc.45
 Architecture: arm64
 Maintainer: Nomatron <support@nomatron.com>
 Installed-Size: 14592
-Filename: pool/main/nomatron-connectivity-agent_0.1.0.rc.44_arm64.deb
-Size: 5706658
-MD5sum: da00fdf6bf0a180d161a3bc4f0cad03c
-SHA1: 3f58b202e0bfb7fa160db1091346cc077c43cb83
-SHA256: 2b69c252ed3d53081fa519f00ba6665f91fd061802186d0cacab8eab62108f2e
+Filename: pool/main/nomatron-connectivity-agent_0.1.0.rc.45_arm64.deb
+Size: 5706674
+MD5sum: 62bf96e6aa8641e71a39ecbbe50011b8
+SHA1: ddbaac45277ab83e6f439e4b8cf277929b761ae8
+SHA256: 9f605356cacf5599fec613857e61366bc67bf10e30b7c5ab281a1f728d7a855b
 Priority: optional
 Homepage: https://get.nomatron.io
 Description: Nomatron Connectivity Agent.
 
 Package: nomatron-host-agent
-Version: 0.1.0~rc.44
+Version: 0.1.0~rc.45
 Architecture: arm64
 Maintainer: Nomatron <support@nomatron.com>
 Installed-Size: 14528
-Filename: pool/main/nomatron-host-agent_0.1.0.rc.44_arm64.deb
-Size: 5630400
-MD5sum: 1b61dde88349d30a566d9d542739a327
-SHA1: 00b8e58afc72802ec74af8fe9fed7ec49a5413d9
-SHA256: 13727b8cc746a2165524308740fbaec5c1c2a6a576e5555d26796baf8fc93551
+Filename: pool/main/nomatron-host-agent_0.1.0.rc.45_arm64.deb
+Size: 5630394
+MD5sum: 7bc2ea2f177a3bf7e878df0d7c043844
+SHA1: 91d2aaa9e75fe3e037e0fb345d7d6fc368e02bbc
+SHA256: 7b40163c7ddeb89b2a0307eaadaa672e3af0365b982e727ea92d11533e87e40f
 Priority: optional
 Homepage: https://get.nomatron.io
 Description: Nomatron Application Networking Host Agent.
