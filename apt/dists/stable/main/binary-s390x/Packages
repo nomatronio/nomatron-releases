@@ -1,13 +1,13 @@
 Package: nomatron
-Version: 0.1.0~rc.48
+Version: 0.1.0~rc.49
 Architecture: s390x
 Maintainer: Nomatron <support@nomatron.com>
 Installed-Size: 64960
-Filename: pool/main/nomatron_0.1.0.rc.48_s390x.deb
-Size: 19768206
-MD5sum: adf3b86442e1bf7425f488516e43c874
-SHA1: 525c4c3c72c6c8c2e4315c87ec0cbfda3cbeb59c
-SHA256: b065377e3826bf1a7a1cb6b8227587552c8158c27a8d1ad1e7ea520fd59c1292
+Filename: pool/main/nomatron_0.1.0.rc.49_s390x.deb
+Size: 19785586
+MD5sum: da079222c4a9f334988df0adf36b781b
+SHA1: 49d2bc14bf720bf7826dd68ff6b7096ed1c38a4b
+SHA256: 0b799836b222922b7e310f75afb005960d4980079f01404bf02b9b41b5ec00ce
 Priority: optional
 Homepage: https://get.nomatron.io
 Description: Nomatron Server CLI.
@@ -27,29 +27,29 @@ Homepage: https://get.nomatron.io
 Description: Nomatron network agent.
 
 Package: nomatron-connectivity-agent
-Version: 0.1.0~rc.48
+Version: 0.1.0~rc.49
 Architecture: s390x
 Maintainer: Nomatron <support@nomatron.com>
 Installed-Size: 16512
-Filename: pool/main/nomatron-connectivity-agent_0.1.0.rc.48_s390x.deb
-Size: 6059546
-MD5sum: 833dfa96da2d09a8b9224cab88f1a5c8
-SHA1: a7d38a10b8aeb47982f8a7a4d444ff9fb3697e34
-SHA256: 7b942fbb96db9940a0ab8b88aacf4b716f5ed706f4c25d963ff1274487d296a3
+Filename: pool/main/nomatron-connectivity-agent_0.1.0.rc.49_s390x.deb
+Size: 6059526
+MD5sum: 18ddc92a4818c532e2ac6fed4a846605
+SHA1: d3e36e1d845fe2bacf905de72ad5901e9747e749
+SHA256: c6cd73115f2387e585d8f41b3e095bf249f0d6c0fa40c7a7e3db9498cd080eae
 Priority: optional
 Homepage: https://get.nomatron.io
 Description: Nomatron Connectivity Agent.
 
 Package: nomatron-host-agent
-Version: 0.1.0~rc.48
+Version: 0.1.0~rc.49
 Architecture: s390x
 Maintainer: Nomatron <support@nomatron.com>
-Installed-Size: 16448
-Filename: pool/main/nomatron-host-agent_0.1.0.rc.48_s390x.deb
-Size: 5982524
-MD5sum: a241a4d4dfa37003dbc3d15085e5faf0
-SHA1: d5418d056a0aa49fa0276aefb1b301c651da9fd8
-SHA256: 0706618227ac7f46d860e591e468f91bc72fee66302cf9f9cac28da7d2f4bdfa
+Installed-Size: 16512
+Filename: pool/main/nomatron-host-agent_0.1.0.rc.49_s390x.deb
+Size: 5991506
+MD5sum: 44b0f165ea6b6242d2f3dc5d93adee5e
+SHA1: 19c6214604fd953fa40e565908bdfe47ef81e4b8
+SHA256: 0a6a2411d220e7a20fadef5595eabd43293e31c7b5866c150f055d8b90445ca2
 Priority: optional
 Homepage: https://get.nomatron.io
 Description: Nomatron Application Networking Host Agent.
