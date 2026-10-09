@@ -1,13 +1,13 @@
 Package: nomatron
-Version: 0.1.0~rc.82
+Version: 0.1.0~rc.83
 Architecture: amd64
 Maintainer: Nomatron <support@nomatron.com>
-Installed-Size: 62608
-Filename: pool/main/nomatron_0.1.0.rc.82_amd64.deb
-Size: 21052106
-MD5sum: 9980c5e3f0df3736655ad769e1374657
-SHA1: de0d405e16ce248ab4260612d7a1d945f5961a4e
-SHA256: 1f7a9687e5c370b8a87e6e7e70885ec06827e1463a158973aaf444e97fe440a4
+Installed-Size: 62684
+Filename: pool/main/nomatron_0.1.0.rc.83_amd64.deb
+Size: 21081038
+MD5sum: 0c763a6419c9faa5e9cccbb69f48bcbe
+SHA1: 41c5c08ec9e89ba11e8c18fcfc4c5c4331c3afc7
+SHA256: af579aaffaadc7eb0958acb4e0613ee0cedb6570f63f6d5e564b1297fe934d59
 Priority: optional
 Homepage: https://get.nomatron.io
 Description: Nomatron Server CLI.
@@ -28,29 +28,29 @@ Description: Nomatron network agent.
 Architecture-Variant: amd64v1
 
 Package: nomatron-connectivity-agent
-Version: 0.1.0~rc.82
+Version: 0.1.0~rc.83
 Architecture: amd64
 Maintainer: Nomatron <support@nomatron.com>
 Installed-Size: 15716
-Filename: pool/main/nomatron-connectivity-agent_0.1.0.rc.82_amd64.deb
-Size: 6339324
-MD5sum: d8b4762ad1b812c047b276a97aaabe3c
-SHA1: 075f6f9711fe77f0f8e0f26e4e114601e5fbb074
-SHA256: ad66cb671998b79865698f2b42afe54502a98ef180f39e18ec342321cb7defbd
+Filename: pool/main/nomatron-connectivity-agent_0.1.0.rc.83_amd64.deb
+Size: 6339312
+MD5sum: 997d680b685af1f7436cc2d3ec8f43d9
+SHA1: 01793174146510681b75e619c90662976779707b
+SHA256: a3e12dfc5d9c199edeb87f03d165442e1ae3c21e9f38f3ee6581e7bebdaa65e9
 Priority: optional
 Homepage: https://get.nomatron.io
 Description: Nomatron Connectivity Agent.
 
 Package: nomatron-host-agent
-Version: 0.1.0~rc.82
+Version: 0.1.0~rc.83
 Architecture: amd64
 Maintainer: Nomatron <support@nomatron.com>
-Installed-Size: 22456
-Filename: pool/main/nomatron-host-agent_0.1.0.rc.82_amd64.deb
-Size: 8215402
-MD5sum: 5cf3419002bd1d066ad885315ff2d7f1
-SHA1: 046c5ea6dfec49a21d83e871236bef3dacf33be3
-SHA256: e4b3fac767ab308ff326c2fd90068752bc43ad52c0e7fc2fd8e72d360e2bac57
+Installed-Size: 22484
+Filename: pool/main/nomatron-host-agent_0.1.0.rc.83_amd64.deb
+Size: 8221460
+MD5sum: 81033ba24e72e118f2c018364cf2224c
+SHA1: 5fcb0b1fdf498f682373f4b9df8e85bdbbe03315
+SHA256: 3f116af4f88c026a65fd715cf4340ba86522f2f63fbf3b98e5cbcb42e5fdffdb
 Priority: optional
 Homepage: https://get.nomatron.io
 Description: Nomatron Application Networking Host Agent.
