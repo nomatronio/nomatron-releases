@@ -12,20 +12,6 @@ Priority: optional
 Homepage: https://get.nomatron.io
 Description: Nomatron Server CLI.
 
-Package: nomatron-agent
-Version: 0.1.0~rc.28
-Architecture: arm64
-Maintainer: Nomatron <support@nomatron.com>
-Installed-Size: 14592
-Filename: pool/main/nomatron-agent_0.1.0.rc.28_arm64.deb
-Size: 5744592
-MD5sum: 5833d1aea9f76b83ec0f0a79c211c765
-SHA1: cd658340d720cf0390768afb2a3ab47745bd258a
-SHA256: 732cec50e9cdc141d45fff56e612f8d28a85f7bce537bf8340dc5ba4505ee7b6
-Priority: optional
-Homepage: https://get.nomatron.io
-Description: Nomatron network agent.
-
 Package: nomatron-connectivity-agent
 Version: 0.1.2
 Architecture: arm64

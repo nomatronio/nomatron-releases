@@ -1,0 +1,7 @@
+[nomatron]
+name=Nomatron
+baseurl=https://packages.nomatron.io/rpm/stable/$basearch/
+enabled=1
+gpgcheck=0
+repo_gpgcheck=1
+gpgkey=https://packages.nomatron.io/rpm/gpg.key

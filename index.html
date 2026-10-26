@@ -49,9 +49,10 @@ a { color: #0b57d0; }
 </section>
 <section>
 <h2>Install</h2>
+<p>Supported apt/yum architectures: <code>aarch64</code>, <code>amd64</code>, <code>arm64</code>, <code>x86_64</code>.</p>
 <ul>
 <li><strong>apt</strong>: <code>deb [signed-by=/usr/share/keyrings/nomatron.gpg] https://packages.nomatron.io/apt stable main</code> (<a href="https://packages.nomatron.io/apt/gpg.key">GPG key</a>)</li>
-<li><strong>yum/dnf</strong>: <code>https://packages.nomatron.io/rpm/stable/</code> (<a href="https://packages.nomatron.io/rpm/gpg.key">GPG key</a>)</li>
+<li><strong>yum/dnf</strong>: <code>sudo dnf config-manager --add-repo https://packages.nomatron.io/rpm/nomatron.repo</code> or baseurl <code>https://packages.nomatron.io/rpm/stable/$basearch/</code> with <code>repo_gpgcheck=1</code> and <a href="https://packages.nomatron.io/rpm/gpg.key">GPG key</a> (<a href="https://packages.nomatron.io/rpm/nomatron.repo">nomatron.repo</a>)</li>
 <li><strong>Homebrew</strong>: <a href="https://github.com/nomatronio/homebrew-tap">nomatronio/homebrew-tap</a></li>
 <li><strong>GitHub Releases</strong>: <a href="https://github.com/nomatronio/nomatron-releases/releases">nomatronio/nomatron-releases</a></li>
 </ul>
