@@ -5,38 +5,38 @@ Origin: Nomatron
 Label: Nomatron
 Suite: stable
 Codename: stable
-Date: Wed, 04 Nov 2026 08:32:33 UTC
+Date: Thu, 05 Nov 2026 07:00:10 UTC
 Architectures: amd64 arm64
 Components: main
 Description: Nomatron Linux packages
 MD5Sum:
  0de3434f8243e226995d76b6c2e1f9c8             1373 main/binary-amd64/Packages
- 2aa25cdc9f06becf4bd5363bb260b54e              611 main/binary-amd64/Packages.gz
+ c5dfa705b91115dac6a21e0f4a0b86a5              611 main/binary-amd64/Packages.gz
  3700f9f3f6bc574a7f97b8751f5b9140             1373 main/binary-arm64/Packages
- bf2cf60504ba02b5b4038e274dfb2749              611 main/binary-arm64/Packages.gz
+ 02bc4d624c3bbf1a1c97f4a61a83ee63              611 main/binary-arm64/Packages.gz
 SHA1:
  ccc99b861b3d359682c42c20b8f480a68f8aa9cd             1373 main/binary-amd64/Packages
- 353dbb0d8cf08d9698faa611bf4bd7676b066046              611 main/binary-amd64/Packages.gz
+ bf90a68d3104b847e40b19513be823313303121d              611 main/binary-amd64/Packages.gz
  c3bde48a9019eb8d88f4720078cd52177a64a271             1373 main/binary-arm64/Packages
- 88e5fb9d25aa539fe006b48b8b70005cef63fe28              611 main/binary-arm64/Packages.gz
+ 7ef95c22582dd7953534a7d201637accfa24ed30              611 main/binary-arm64/Packages.gz
 SHA256:
  e90385e1521c3c9dc86faaf3843e45dc5a4d07f298fab1d7e976f4d39b29518d             1373 main/binary-amd64/Packages
- 440c6cfd62c564b806c4a12631986452aede41f2361a5c48edeec19ab9b0fb28              611 main/binary-amd64/Packages.gz
+ 7d394becb850f3cb97733770fe80ccdc45dc8f7877d741baf081a9c21ecbec0b              611 main/binary-amd64/Packages.gz
  845ffd344936e30db230a7f15330c998cb4e5b2566322edf823ebd8b54b48157             1373 main/binary-arm64/Packages
- e127d8ccc1d514764df7d880fe9bb7ff1a024ba69847ac4cd696cd16a916bade              611 main/binary-arm64/Packages.gz
+ 4457eeacf1c1d6f4d9ab261b3989d95a2241f54fe308212c23eec6a0b1868190              611 main/binary-arm64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCAAdFiEEaYmuudMIbTi1KCjfSQRX9Bwjcm4FAmrq7aEACgkQSQRX9Bwj
-cm6YoQ//YLwFuiME6bh+I62LeETKRyVT9osLGI8Mpuy4OJiZXfUdn3nq5+f00MEm
-gfwzPfPrVT1BTtqp9vITiGi8GsDQ1ZLqEqXDTISFeYECmvdgGh2oPUDpsQNi9Yam
-osJI2mjARqFio8u/rWFblK0NmmYpEOjxWdiNtWWO7XA7JaJq4anToKIXRfnLTjZh
-aPgjpSVi2Ov/QAabvydRQf7BNA778SKdF8CBkEfwnvGC5WIpZSgZMHAjkzcszCiu
-+TpB8GdTFAT7Y18vqt6cKLvh0Dt0PkL1wDUHU76CM+GaJUrkAeG511B4JmRw6SuI
-JWBC8+07Dwj/gJKISm18TxHwxPERqlj5tLAvXQelATFnEGq7p1wrcEIF+JqfpGqc
-k6+0tbfAVoYQ4mupAQtL8Efu54XyY4xUIlXoSA7DeVPLd/+5EIXdgIow0PmiCUCK
-wyHp4Yq/piaKHrT50KKbC3+BysTPw9eYswxmCEmHXDCdPzBFq1ksccMBT9COIs9A
-JWPELiv6AQqajCBjeSds6aOuEeiBXUPRXqVQgwH6sYcGQRdMz0b5nx+Ul9j0H1QZ
-iFNxs/p8V9mg1YF3+xz8oIKJnUH9mZKQKtSHMH7pZv2LcB0jytfQYSX0OPFsYDAr
-s7ZHMNHBAxezxV292lUfsbMtf31raON01hCu9uziKdAh4H7Ez8E=
-=BTk8
+iQIzBAEBCAAdFiEEaYmuudMIbTi1KCjfSQRX9Bwjcm4FAmrsKXoACgkQSQRX9Bwj
+cm5wpxAAnV9/GSJ75y7F9nR61icYiDXajLCBXepEESO34xh3kwQTRt9VEqybOz+x
+7stEE/ZRfeSqu0Z46vUB4xl/0aNiHBDk+9m1tPhqmFqGp4ks9FBUnS2E8lbczYMw
+YQ6uL/fvY/YKfNpCOXxpeQw/GVeUpL81EdQSKi31+F+YRzAraCHc0rr4YJ8phBIr
+dnOO+8qor3HqPd+sCkmnK1BQsdkowy5wN7HaRyCUkbzgWOGAu4DR9DfkmOoI2vfU
+iNhFNJkn1lh6lVxhkkVakoBXKq1xy1GeXTXYHUIe4nT5at5O3onJ1w6tzVQWDKqA
+cLpc/e0RiEZBzWDiK93YBYfP335T1pawJml65aX1Q6wCqPdf7V3v2R845jUnsvcH
+yg+fR74a7o3vuV2xqstIzxd866GabvX14UQcbelAn/+Z8/7PVmYKuE2zzJ+1/3Ye
+OsWT6dHVBKIkG1F1YGZDzTYGlgOKEZSyrHPSJVmCUcghYfx23g8TzVO944wz5kZn
+qnr/6fWimY+M1DQPKRm8XxSvrL0Ljp/jRr+LU9kU1Pxo+UQKwAUgHoq1Gq+OsgwG
+N8E69nycLoUkxkvFK5BtgsGGzpA2emVqeQIh2/81TowSLKOULxyp0YkORsL+RHsI
+Yi/QoZzbahy/0t4qTszUkvpm7WP3t/IUcGl3mUFdqzIssqVUhy4=
+=cc4U
 -----END PGP SIGNATURE-----
