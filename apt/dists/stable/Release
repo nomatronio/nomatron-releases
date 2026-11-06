@@ -2,22 +2,22 @@ Origin: Nomatron
 Label: Nomatron
 Suite: stable
 Codename: stable
-Date: Thu, 05 Nov 2026 07:00:10 UTC
+Date: Fri, 06 Nov 2026 04:14:05 UTC
 Architectures: amd64 arm64
 Components: main
 Description: Nomatron Linux packages
 MD5Sum:
  0de3434f8243e226995d76b6c2e1f9c8             1373 main/binary-amd64/Packages
- c5dfa705b91115dac6a21e0f4a0b86a5              611 main/binary-amd64/Packages.gz
+ 3c1ba4afc66c8b886527db7b9e51f9d1              611 main/binary-amd64/Packages.gz
  3700f9f3f6bc574a7f97b8751f5b9140             1373 main/binary-arm64/Packages
- 02bc4d624c3bbf1a1c97f4a61a83ee63              611 main/binary-arm64/Packages.gz
+ 15a1cf5ac5011b055e48b3936c8bec16              611 main/binary-arm64/Packages.gz
 SHA1:
  ccc99b861b3d359682c42c20b8f480a68f8aa9cd             1373 main/binary-amd64/Packages
- bf90a68d3104b847e40b19513be823313303121d              611 main/binary-amd64/Packages.gz
+ a8bf3407631b678dc4c105e1eb3c898598d9f9a8              611 main/binary-amd64/Packages.gz
  c3bde48a9019eb8d88f4720078cd52177a64a271             1373 main/binary-arm64/Packages
- 7ef95c22582dd7953534a7d201637accfa24ed30              611 main/binary-arm64/Packages.gz
+ c78765cb86492919aa0fe789196aefd63f8ad9f4              611 main/binary-arm64/Packages.gz
 SHA256:
  e90385e1521c3c9dc86faaf3843e45dc5a4d07f298fab1d7e976f4d39b29518d             1373 main/binary-amd64/Packages
- 7d394becb850f3cb97733770fe80ccdc45dc8f7877d741baf081a9c21ecbec0b              611 main/binary-amd64/Packages.gz
+ 0ed15e42c8756a565868e4126e6031b571bac9bc544c77b0fca3a46b9d2ef1be              611 main/binary-amd64/Packages.gz
  845ffd344936e30db230a7f15330c998cb4e5b2566322edf823ebd8b54b48157             1373 main/binary-arm64/Packages
- 4457eeacf1c1d6f4d9ab261b3989d95a2241f54fe308212c23eec6a0b1868190              611 main/binary-arm64/Packages.gz
+ 4d52b631ebbf00944854f8564b83ac056c3f201dc93bfb78e569004ed2128d1a              611 main/binary-arm64/Packages.gz
