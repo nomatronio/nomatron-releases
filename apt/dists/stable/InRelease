@@ -5,38 +5,38 @@ Origin: Nomatron
 Label: Nomatron
 Suite: stable
 Codename: stable
-Date: Sun, 08 Nov 2026 15:40:39 UTC
+Date: Sat, 14 Nov 2026 01:16:58 UTC
 Architectures: amd64 arm64
 Components: main
 Description: Nomatron Linux packages
 MD5Sum:
- 0de3434f8243e226995d76b6c2e1f9c8             1373 main/binary-amd64/Packages
- 08eaddf3de3a71476bda0f7db8630abb              611 main/binary-amd64/Packages.gz
- 3700f9f3f6bc574a7f97b8751f5b9140             1373 main/binary-arm64/Packages
- c926d438aec1799e586fc951028674c8              611 main/binary-arm64/Packages.gz
+ dcc9b352e1871e78ce8bb033718b8968             1370 main/binary-amd64/Packages
+ 4d42620cc26aa98961d9770b206c14e2              608 main/binary-amd64/Packages.gz
+ c9d3bd0a43b92f599b6e4dc39a7b30e8             1370 main/binary-arm64/Packages
+ 1ee87b70d52a7f762eb998a53c1b2816              612 main/binary-arm64/Packages.gz
 SHA1:
- ccc99b861b3d359682c42c20b8f480a68f8aa9cd             1373 main/binary-amd64/Packages
- 9e5143ebecab4e46fb3e1199969a37558e7a8b02              611 main/binary-amd64/Packages.gz
- c3bde48a9019eb8d88f4720078cd52177a64a271             1373 main/binary-arm64/Packages
- fbcc5f09d1b7613193dc1b37c55f5dc924443724              611 main/binary-arm64/Packages.gz
+ f065c1432f1fb72c585be90c5455c431e7195758             1370 main/binary-amd64/Packages
+ bd879fe9688d7ea7957ae39723b6ff7b5a474f10              608 main/binary-amd64/Packages.gz
+ c6f0bed1e7690f58d6eb7266d5793df307a957e9             1370 main/binary-arm64/Packages
+ 2f3d624e7e408165aa2c456ce9073c90a5df30c2              612 main/binary-arm64/Packages.gz
 SHA256:
- e90385e1521c3c9dc86faaf3843e45dc5a4d07f298fab1d7e976f4d39b29518d             1373 main/binary-amd64/Packages
- 820f20b314b085e42482dd53dd93be9fe52dbe9e8ccd79f4dd456c565f95323a              611 main/binary-amd64/Packages.gz
- 845ffd344936e30db230a7f15330c998cb4e5b2566322edf823ebd8b54b48157             1373 main/binary-arm64/Packages
- e196c75669bd76af9fcf9bc79a4eae61aad01702de28a1d490b14299fc5cba61              611 main/binary-arm64/Packages.gz
+ 7960c6af018952575e3e8b0fd434774b18419665caff6ad5f24ec83705142578             1370 main/binary-amd64/Packages
+ f24b61256cdb919d60f361010f8fb3114f74cca7f5aa5421327645a654d3269a              608 main/binary-amd64/Packages.gz
+ aef4674a922735fb5f067d21cffb235b466f3b5420fe4ad6eaf38de45223f40f             1370 main/binary-arm64/Packages
+ b1e32d1a633446dbc94975236092c4b9f880c0c4149bbb56a58537d0a8070172              612 main/binary-arm64/Packages.gz
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCAAdFiEEaYmuudMIbTi1KCjfSQRX9Bwjcm4FAmrwl/cACgkQSQRX9Bwj
-cm6sBA/9FyZIg/mZUiyLOsLKs4sT57irhmoj26TsMEcXwAzY2bwGZdpdxfw5fGDn
-WqaGZ+LvXDjG6XXfHdn7z4/y+t4PXPXIh52HjwBEYFpB7aT+mhC8+ibX3LTK23aL
-BSVJWSHDkWyrZlCjZwAXAW8VQVEiglOKmLAjQ+gFR8PYmVtcIT+JT8P80vN8TFA6
-nbAxVDI2GZQvOJQnd/8puyiWIyv4Pur1x3gwLdTCjjJIY6OQZtFkrEys/i9w0qJj
-RIpGz5Y+Xj/N2sKCq07mXAkXZhutslcL7J1mZQbl0V1KefvV5x76yVbfKnBVb6or
-pjSyyG9RddZu6f/MgVkaeEY/93RbtzvTsWJ2rHrIMAuGx4pVn7cDTgp6e7WTENiG
-RuZyblWUJDavdtuYB3pjhKoEzTYCd4ya0f4YhaA2BYLiIBqbVKhrSztPdRQWyhgA
-b8Jq3FWYMpGFLv+7BvlYQLq2SZcMW+5OSHqpIdaDzdNYUaFrfIydoLesA+AA3STw
-tRkv/TByUjjG1QOZem6PjMthjiypPsZEKsci2ciVBk1awkCQvt6pfioieaU4YXGv
-K7YVeJPIv9Jhae1tAQqUGfOhOsY9npzHdFTKN+4q6GA2pHyN4YbEendy3epM/TQH
-KWko+SUI/v8vhmio+plRNbPYJgftCtgDYmPodhUuqZESxD6dN0c=
-=ukgZ
+iQIzBAEBCAAdFiEEaYmuudMIbTi1KCjfSQRX9Bwjcm4FAmr3tooACgkQSQRX9Bwj
+cm6kLg//YXfmGypCznAaSzn52lOxlGrsNIm1Z8awj+15Ji2OEoDAGtPLkRWYCwb9
+WQbmK3S2WKt0Xwx7kxvx+WDHh3klRk8Cranl3zjoDcQJKBB1yb9me5CdiD+6o1NQ
+yqH+63FvRouuWE9hZyIpWQUqhWkX467gfi5hI8u3gVsmuxYSniPfU6Uz3Km90QsO
+SZ+lAevWOXqNcq4qL4ZcU4tE7i/iqadtmvFohF9zwxOK80ru5Ud4rYHx3InymJPD
+A8LsyOiaj4V/7ZCAc7Lp1P5Ph7NS4biSjo5b14K6pwDTY9zbXMaog1Fv8tGM45z1
+ny8KCYgtNAFCvsi7wl1vtogBLdZLMkPiMLVfqZ9ql0RrBjCxnX5a6pdLk2VTxvDp
+iOmmnQB+id9NmwtAFnJ5qlHmVLflNn1PU0mEuNVPgXR4cVdk7mwqIkCNsw0NqRhT
+Fcv73OR9cexnU0WAxpuNJ5sze84SpsuTBm3bS2uCiPk6j2cOiUZ1/tvoLG6/fG37
+xGtkTxS2uoKJRdmxu+MjtaBNSr4aDSrQA2ugIwp5Yh2LPYkwhQ4HP9cHnq3Ec6zI
+A/g1gfL33WC300I1FZa8XByH8z1ED02UTl0v3rpUElaet4vrRA/V+f8BaXjncRzT
+59cMsvI08wVEcdwbRU68L0z1il6j1vUbCbZaYPlX33j1/jRaecc=
+=UY0q
 -----END PGP SIGNATURE-----
